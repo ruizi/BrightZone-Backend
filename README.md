@@ -33,4 +33,4 @@ The resulting database with default setting consists of：
     - 89 Classes with random schedule
     - (All data extracted from [uWaterloo Open Data API](https://wiki.uwaterloo.ca/display/UWAPI/OpenAPI+Home+Page))
 
-* This repo only contains the backend source code. [Click here](https://github.com/WenjiuWang/BrightZone-Frontend) to access the frontend repo.
+* This repo only contains the backend source code. [Click here](https://github.com/ruizi/BrightZone-Frontend)to access the frontend repo.
