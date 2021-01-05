@@ -8,11 +8,11 @@
         <version>2.3.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.carleton.comp5104</groupId>
-    <artifactId>cms</artifactId>
+    <groupId>com.horsemen-of-the-ocics</groupId>
+    <artifactId>BrightZone</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cms</name>
-    <description>comp5104</description>
+    <name>BrightZone</name>
+    <description>University Course Management System</description>
 
     <properties>
         <java.version>11</java.version>
